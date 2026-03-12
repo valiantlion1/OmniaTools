@@ -1,39 +1,81 @@
 # OmniaTools
 
-OmniaTools is the tools ecosystem of the Omnia Creata platform.
+OmniaTools is a shared utility tools repository within the Omnia Creata ecosystem.
 
-This repository acts as the umbrella workspace for multiple standalone utility applications that will support creators, AI workflows, and media production pipelines inside the Omnia Creata ecosystem.
+This repository is intended to host lightweight, practical, and creator-focused applications that support productivity, AI-assisted workflows, and digital content creation. It serves as a central workspace for smaller utility products that may be developed, tested, and expanded over time.
 
-Each tool will initially be developed here and may later evolve into its own independent repository.
+OmniaTools is not designed to be a single large platform. Instead, it is a collection space for focused tools with clear purposes and fast workflows.
+
+## Purpose
+
+The purpose of OmniaTools is to create compact utility applications that solve specific problems efficiently.
+
+These tools are intended to help with:
+
+- creator productivity
+- content support workflows
+- AI-assisted text and media tasks
+- fast utility-based actions
+- modular experimentation for future Omnia Creata products
+
+## Scope
+
+Applications inside OmniaTools are expected to be smaller in scope than the main Omnia Creata platforms.
+
+They should be:
+
+- practical
+- fast
+- easy to use
+- modular
+- scalable if needed
+
+If any tool grows significantly in scope, it may later be separated into its own standalone repository.
 
 ## Planned Tools
 
-- OmniaPrompt  
-AI prompt generator and optimizer for image, video and AI models.
+### OmniaCaption
+AI-powered caption generation tool for creators and social media workflows.
 
-- OmniaCaption  
-AI caption generator for social media and content creators.
+Potential use cases:
+- social media captions
+- short-form content text support
+- platform-specific wording
+- tone and style adaptation
 
-- OmniaThumbnail  
-Thumbnail generator and optimization tool.
+### OmniaThumbnail
+Thumbnail-focused utility for helping creators improve presentation and optimization in visual content workflows.
 
-- OmniaImagePromptBuilder  
-Advanced prompt builder for AI image models.
+Potential use cases:
+- thumbnail planning support
+- optimization workflows
+- visual clarity improvements
+- creator-oriented thumbnail preparation utilities
 
-- OmniaVideoPromptBuilder  
-Prompt builder designed for AI video generation tools.
+## Development Approach
 
-## Goal
+This repository is meant to evolve gradually.
 
-Create lightweight, fast, creator-focused utilities that integrate seamlessly with the larger Omnia Creata ecosystem.
+Tools may begin as early concepts, internal experiments, or small focused utilities. Over time, the most useful and scalable ones can be refined into more complete products.
 
-## Ecosystem
+The development approach for OmniaTools is based on:
 
-OmniaTools is part of the **Omnia Creata** ecosystem:
+- clear structure
+- modular growth
+- practical utility first
+- creator-first thinking
+- flexibility for future expansion
 
-- OmniaCreata Studio
-- OmniaPixels
-- OmniaBench
-- OmniaGameHub
-- OmniaCompanion
-- OmniaCreata Control Center
+## Long-Term Direction
+
+OmniaTools is intended to become the utility layer of Omnia Creata.
+
+Its role is to support workflows around creation, productivity, and AI-assisted tooling through smaller applications that are fast to use and easy to maintain.
+
+While the repository starts with a limited set of tools, it is designed to grow as new utility ideas become worth developing.
+
+## Summary
+
+OmniaTools is a shared repository for lightweight Omnia Creata utility applications.
+
+It focuses on practical tools, creator support, modular development, and long-term flexibility for future standalone products.
